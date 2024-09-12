@@ -38,25 +38,6 @@ namespace myImages {
 ................................
 ................................
 `;
-            case "Qv@;p79@e|(fGBFKaJ@[":
-            case "mole":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . 5 5 5 5 . . . . . . 
-. . . . 5 5 5 5 5 5 5 5 . . . . 
-. . . 5 5 5 5 5 5 5 5 5 5 . . . 
-. . 5 5 5 5 5 5 5 5 5 5 5 5 . . 
-. 5 5 5 5 5 5 5 5 5 5 5 5 5 5 . 
-. 5 5 1 1 1 1 5 1 1 1 1 5 5 5 . 
-5 5 5 1 1 1 1 5 1 1 1 1 5 5 5 5 
-5 5 5 1 f f 1 5 1 f f 1 5 5 5 5 
-5 5 5 f 1 1 f 5 f 1 1 f 5 5 5 5 
-5 1 5 1 1 1 2 2 2 1 1 1 5 1 5 5 
-5 5 1 5 5 e e 2 e e 5 5 1 5 5 5 
-5 5 5 1 e e e e e e e 1 5 5 5 5 
-5 5 5 5 e e e e e e e 5 5 5 5 5 
-5 5 5 1 5 e e e e e 5 1 5 5 5 5 
-5 5 1 5 5 5 5 5 5 5 5 5 1 5 5 5 
-`;
             case "/LJ4HDC9/+6j@JGvC7#:":
             case "grid":return img`
 6666677777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777766666
@@ -321,6 +302,25 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+`;
+            case "Qv@;p79@e|(fGBFKaJ@[":
+            case "mole":return img`
+. . 5 . . . . . . . . . . 5 . . 
+. 5 5 5 . . 5 5 5 5 . . 5 5 5 . 
+. 5 3 5 5 5 5 5 5 5 5 5 5 3 5 . 
+. 5 3 5 5 5 5 5 5 5 5 5 5 3 5 . 
+. 5 5 5 5 5 5 5 5 5 5 5 5 5 5 . 
+. 5 5 5 5 5 5 5 5 5 5 5 5 5 5 . 
+. 5 5 1 1 1 1 5 1 1 1 1 5 5 5 . 
+5 5 5 1 1 1 1 5 1 1 1 1 5 5 5 5 
+5 5 5 1 f f 1 5 1 f f 1 5 5 5 5 
+5 5 5 f 1 1 f 5 f 1 1 f 5 5 5 5 
+5 1 5 1 1 1 2 2 2 1 1 1 5 1 5 5 
+5 5 1 5 5 e e 2 e e 5 5 1 5 5 5 
+5 5 5 1 e e e e e e e 1 5 5 5 5 
+5 5 5 5 e e e e e e e 5 5 5 5 5 
+5 5 5 1 5 e e e e e 5 1 5 5 5 5 
+5 5 1 5 5 5 5 5 5 5 5 5 1 5 5 5 
 `;
         }
         return null;
